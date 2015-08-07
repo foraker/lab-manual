@@ -22,6 +22,6 @@ GitHub pull request are a great way to encourge discussion around a set of code 
   - :fried_shrimp: `:fried_shrimp:`
   - :cake: `:cake:`
   - :birthday: `:birthday:`
-  
 
-- :frog: `:frog:` For use in Slack or other direct communication (with a link to the commit in Github) to indicate you have a small changes that probably don't warrant a pull request, but you still want to get some eyes on them. 
+
+- :frog: `:frog:` For use in Slack or other direct communication (with a link to the commit in GitHub) to indicate that you have some small changes that probably don't warrant a pull request, but still want to get some eyes on them.
