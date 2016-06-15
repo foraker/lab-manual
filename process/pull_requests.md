@@ -9,10 +9,11 @@ GitHub pull request are a great way to encourge discussion around a set of code 
 - :hocho: `:hocho:` Cut/axe/remove this?
 - :scroll: `:scroll:` This line is very long, please break up into multiple lines
 - :water_buffalo: `:water_buffalo:` A non-critical/style driven critique or functionally equivalent alternative
+- :gift: `:gift:` This is presentation logic that belongs in neither a model nor a view. What do you think about using a "present"-er?
 - :put_litter_in_its_place: `:put_litter_in_its_place:` I realize you did not commit this unreasonable code, but would you be so good as to fix it?
 - :us: `:us:` or :statue_of_liberty: `:statue_of_liberty:` THIS IS AMERICUH or "I do what I want!"
 - :goberserk: `:goberserk:` WTF is this craziness, are you on bath salts?
-- PR Approval (for the very latest, refer to our Hubot repo)
+- PR Approval (for the very latest, refer to our [Hubot repo][hubot])
   - :+1: `:+1:` or `:thumbsup:`
   - :shipit: `:shipit:`
   - :ship: `:ship:`
@@ -25,3 +26,5 @@ GitHub pull request are a great way to encourge discussion around a set of code 
 
 
 - :frog: `:frog:` For use in Slack or other direct communication (with a link to the commit in GitHub) to indicate that you have some small changes that probably don't warrant a pull request, but still want to get some eyes on them.
+
+[hubot]: https://github.com/foraker/hubot/blob/master/scripts/unapproved-pull-requests.coffee
